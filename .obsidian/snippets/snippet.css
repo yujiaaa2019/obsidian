@@ -1,0 +1,10 @@
+span.cm-highlight.cm-hmd-internal-link {
+  /*  font-style: initial; */	
+    background-color: var(--highlight-link);
+    color: #222 !important;
+}
+
+body > .app-container div.markdown-preview-view mark > .internal-link {
+     background-color: var(--highlight-link);
+     color: #222 !important;
+}

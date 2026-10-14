@@ -1,0 +1,2 @@
+issue: user tries to add a field (update pojo) and also create an index on the record simultaneously, and the producer step failed saying that `Unable to build unique key index for HollowRecipeConfigV2 on countryCode.code.value.languageCode.code.value.recipeId.value.socialStrategy._name. This is likely due to a field path that does not exist in the schema.`
+solution: user need to run `addOrUpdate` on their side on the existing data to populate the new schema change, and then push the code

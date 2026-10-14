@@ -1,0 +1,342 @@
+{
+  "main": {
+    "id": "c2eb3bf4ea624191",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ca6000599497baa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb0a9a1fdd696687",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GraphQL Subscription.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GraphQL Subscription"
+            }
+          },
+          {
+            "id": "6a86aa7b7f9a357f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RAW Hollow/OCP live -- RH.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OCP live -- RH"
+            }
+          },
+          {
+            "id": "3786832afddb304f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CISL/CISL Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CISL Intro"
+            }
+          },
+          {
+            "id": "c132731ed06c88b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CISL/CISL Migration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CISL Migration"
+            }
+          },
+          {
+            "id": "b31d6723a724dc48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planning/Project Trackers/Personal Projects Tracker Q1 2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Personal Projects Tracker Q1 2024"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77ad987eef428e47",
+    "type": "split",
+    "children": [
+      {
+        "id": "52feac92ce12767b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed7418037d5a8a06",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "cb79cba1e6612955",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "98079194621a0f88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e57644851b8cbb1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "093566ea8678d2a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "599504c8012255e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RawHollow Search Query DSL.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for RawHollow Search Query DSL"
+            }
+          },
+          {
+            "id": "c050079f9a4842e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RawHollow Search Query DSL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from RawHollow Search Query DSL"
+            }
+          },
+          {
+            "id": "3d8b53fc7a530f98",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ec41b98403e96b86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RawHollow Search Query DSL.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of RawHollow Search Query DSL"
+            }
+          },
+          {
+            "id": "929df11d1ee70007",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          },
+          {
+            "id": "8864b3279e16ff2a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "b9c820c3ad11923a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bdbe2e9f6f088378",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "49d174fe9b17cda8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e7e87288e9add46",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "cb79cba1e6612955",
+  "lastOpenFiles": [
+    "Planning/L5-Promotion/L5 Promotion Tracker.md",
+    "Planning/Project Trackers",
+    "Excalidraw/EDPR Strategy 2026.excalidraw.md",
+    "Planning/L5-Promotion",
+    "Archive/Unified Data Architecture.md",
+    "Archive/CIS August.md",
+    "Archive/2024-04-15.md",
+    "Archive/MRN.md",
+    "Archive/Untitled.canvas",
+    "Projects/CISL/RAW Hollow Projects/PAL Taxonomy.md",
+    "Projects/EARS/EARS CLI/EARS CLI.md",
+    "Projects/EARS/EARS CLI/EARS Local Runtime.md",
+    "Projects/CISL/RAW Hollow Projects/Pandora.md",
+    "Projects/CISL/RAW Hollow Projects/Zeor-Copy Restore.md",
+    "Projects/CISL/RAW Hollow Projects/RAW Hollow.md",
+    "Projects/EDPR/HL IPC.md",
+    "Projects/EDPR/EDPR.md",
+    "Projects/EDPR/GraphQL Subscription.md",
+    "Projects/EDPR/EDPR Singleton Job.md",
+    "Projects/RAW Hollow/Triggers.md",
+    "Projects/RAW Hollow/Remote Repo Loader.md",
+    "Projects/RAW Hollow/RawHollow Search Query DSL.md",
+    "Projects/RAW Hollow/RawHollow DM Sink.md",
+    "Projects/RAW Hollow/RH issue log.md",
+    "Projects/RAW Hollow/RH explorer UI.md",
+    "Projects/RAW Hollow/RH Unified API.md",
+    "Projects/RAW Hollow/RH UI.md",
+    "Projects/RAW Hollow/RH Triggers.md",
+    "Projects/EARS/EARS CLI",
+    "Projects/CISL/RAW Hollow Projects",
+    "Projects/RAW Hollow",
+    "Projects/EDPR",
+    "Projects/EARS",
+    "Projects/CPIE Q1 Team Offsite",
+    "Projects/CISL",
+    "Projects/Athena",
+    "Untitled.canvas",
+    "Images/Screenshot 2024-07-24 at 1.39.45 PM.png",
+    "Excalidraw/Untitled.canvas",
+    "Images/Screenshot 2024-02-29 at 2.43.09 PM.png",
+    "Images/Pasted Image 20240115110536_710.png",
+    "Images/Pasted Image 20240115110506_693.png",
+    "Images/Pasted Image 20240112134935_670.png",
+    "Images/Pasted Image 20240112132018_013.png",
+    "Images/athena.avif",
+    "Images/Screenshot 2023-10-27 at 1.37.06 AM.png",
+    "Images/Screenshot 2023-10-27 at 1.35.14 AM.png",
+    "Images/Screenshot 2023-10-26 at 7.01.07 PM.png"
+  ]
+}

@@ -1,0 +1,7 @@
+- Exactly once processing 
+	- right now at-least once processing 
+- guaranteed actions iff successful commit in RH 
+- Async IPC / command vs. fact 
+	- not only completable future
+	- with guarantee that it will be done
+- 
